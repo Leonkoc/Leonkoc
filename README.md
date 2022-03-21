@@ -1,5 +1,5 @@
-### Hey Hey👋, me llamo Leon Krenak
-<h2> Un desarrollador en desarrollo</h2
+### <h2>Hey Hey👋, me llamo Leon Krenak</h2>
+<h4> Un desarrollador en desarrollo</h4>
 
 <div align="center">
   <a href="https://github.com/Leonkoc">
