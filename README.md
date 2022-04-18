@@ -1,7 +1,7 @@
 ### <h2>Hey Hey👋, me llamo Leon Krenak</h2>
 <h4> Un desarrollador en desarrollo</h4>
 
-<div align="center">
+<div display: inline_block align="center" >
   <a href="https://github.com/Leonkoc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leonkoc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
