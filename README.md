@@ -1,6 +1,7 @@
 <h1 align="center">Olá 👋, Seja bem-vindo</h1>
 <h3 align="center"><Un desarrollador en desarrollo/></h3>
 
+[![Repositório de dados - Clique aqui](https://img.shields.io/badge/Reposit%C3%B3rio-de%20dados-blue)](https://github.com/Leonkoc/Data_analysis/tree/main/dados)
 
 <p align="left">
 </p>
