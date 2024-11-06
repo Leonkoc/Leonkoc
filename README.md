@@ -31,8 +31,8 @@ Esse GitHub está passando por reformulações atualmente. Vários repositórios
 <div display: inline_block align="center" >
   <a href="https://github.com/Leonkoc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leonkoc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonkoc&layout=compact&langs_count=7&theme=dark"/> 
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonkoc&layout=compact&langs_count=7&theme=dark&hide_progress=true"/> 
      <img height="120em" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"/>
     </div>
       <br>
