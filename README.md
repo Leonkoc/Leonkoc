@@ -6,20 +6,13 @@
 <p align="left">
 </p>
 <div>
-Olá, meu nome é Leon Krenak e sou um entusiasta do mundo dos dados.
+Olá, sou Leon Krenak, um apaixonado por dados com um caminho único. Minha trajetória começou na medicina, onde, durante o curso de Epidemiologia, descobri o poder dos dados e decidi seguir essa paixão. Embora não tenha concluído a graduação, minha experiência acadêmica me deu uma base sólida em análise crítica e resolução de problemas, habilidades que hoje aplico na análise de dados.
+</br></br>
+Após um início como freelancer, atualmente tenho 2 anos de experiência formal na área. Estou sempre em busca de aprender e aprimorar minhas habilidades para encontrar insights valiosos nos dados.
 
-Minha jornada profissional começou de maneira inusitada, vindo de uma formação em medicina na UNR (Universidade Nacional de Rosário). Foi durante minha jornada acadêmica, especificamente na matéria de Epidemiologia, que fui apresentado ao poder e importância dos dados. Foi nesse momento que descobri minha paixão pelos dados e desde então tenho buscado aprimorar minhas habilidades nesse campo fascinante.
+Explore meu portfólio para ver meus projetos anteriores e, se tiver algo em mente, entre em contato!
 
-Apesar de não ter concluído minha graduação, tendo trancado no 4º ano ou 8º semestre, isso não diminui meu entusiasmo e dedicação à análise de dados. A experiência adquirida durante esse período foi inestimável e proporcionou uma base sólida para minha transição para a área de dados.
-
-Após um período realizando freelancers simples na área de dados, decidi mergulhar de cabeça nesse universo como analista de dados. Atualmente com um ano e meio de experiência formal, estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar os desafios e descobrir insights valiosos nos dados.
-
-Embora minha formação acadêmica inicial tenha sido em medicina, ela me proporcionou uma base sólida em análise crítica e resolução de problemas, habilidades que agora aplico de maneira interdisciplinar na análise de dados.
-
-Estou empolgado para compartilhar meu trabalho e colaborar em projetos desafiadores. Explore meu portfólio para ver exemplos do meu trabalho anterior e entre em contato para discutirmos como posso contribuir para o sucesso do seu projeto.
-
-OBSERVAÇÃO:
-Esse GitHub está passando por reformulações atualmente. Vários repositórios foram trancados e outros deletados para uma melhor organização e apresentação dos meus projetos e experiências. Agradeço sua compreensão durante esse processo de melhoria contínua.
+OBS: Este GitHub está em processo de reformulação para apresentar melhor os meus projetos. Agradeço pela compreensão enquanto faço melhorias.
 
 </div>
 
